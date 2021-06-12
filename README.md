@@ -27,3 +27,6 @@ Complete second loop case: To delete a alloted room
 
 ![Screenshot 2021-06-08 at 2 12 47 PM](https://user-images.githubusercontent.com/84954530/121153358-9d38e080-c863-11eb-82ff-c7edcebc36e2.png)
 
+
+
+3 loop just showcases what all rooms have been alotted and are reserved 
